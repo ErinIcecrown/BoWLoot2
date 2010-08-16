@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: BoWLoot2
+## Notes: Rewrite of BoWLoot
+## Author: Erin of Icecrown
+## OptionalDeps: Ace3
+
+embeds.xml
+Core.lua
