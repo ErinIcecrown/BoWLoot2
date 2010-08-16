@@ -3,8 +3,8 @@ local AceGUI = LibStub('AceGUI-3.0')
 local BoWLoot2_version = '2.0.3'
 
 local options = {
-	name = 'SciCalc',
-	handler = SciCalc,
+	name = 'BoWLoot2',
+	handler = BoWLoot2,
 	type = 'group',
 	args = {
 		add = {
