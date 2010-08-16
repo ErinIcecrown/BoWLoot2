@@ -1,6 +1,6 @@
 local BoWLoot2 = LibStub('AceAddon-3.0'):NewAddon('BoWLoot2', 'AceConsole-3.0', 'AceEvent-3.0', 'AceTimer-3.0')
 local AceGUI = LibStub('AceGUI-3.0')
-local BoWLoot2_version = '2.0.3'
+local BoWLoot2_version = '2.0.4'
 
 local options = {
 	name = 'BoWLoot2',
